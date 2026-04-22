@@ -6,7 +6,7 @@ Entry-level developer focused on building real-world web applications, admin sys
 
 ## 🛠️ Tech Stack
 
-React, Next.js, Node.js, Express, MySQL, JavaScript, HTML, CSS
+React, Next.js, Node.js, Express, PostgreSQL, MySQL, Supabase, Railway, JavaScript, HTML, CSS
 
 
 ## 🌐 Connect
