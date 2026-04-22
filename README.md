@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Sofia 👋
 
-<!--
-**mercado-sofia/mercado-sofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entry-level developer building web apps, admin systems, and AR-based solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+React, Next.js, Node.js, Express, MySQL, JavaScript, HTML, CSS
+
+---
+
+## 📌 Projects
+
+**🧭 Campus Direction Assistant (AR)**
+QR-based navigation system with guided AR paths.
+
+**🏢 FAITH Community System**
+Full-stack platform with admin workflows and content management.
+
+**🛒 OJT E-commerce System (In Progress)**
+3 portals (Buyer, Seller, Admin) with payment transactions and dashboards.
+
+**💄 Makeup Portfolio Website**
+Responsive portfolio for a professional client.
+
+---
+
+## 🏆 Certifications
+
+* IT Specialist – Data Analytics (Pearson)
+* Web Developer Bootcamp (In Progress)
+
+---
+
+## 🌐 Connect
+
+* 📧 [sofia1809.mercado@gmaill.com](mailto:sofia1809.mercado@gmaill.com)
+* 💼 LinkedIn: (add link)
