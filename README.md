@@ -1,4 +1,4 @@
-Hey there!
+## Hey there!
 
 I'm [**Sofia**](https://www.linkedin.com/in/sofialyn/), an aspiring software engineer focused on building and learning in the field of software development.
 
@@ -6,8 +6,4 @@ Outside of tech, I spend my time doing cardio like walking and running, creating
 
 Let’s connect:
 
-<a href="https://www.linkedin.com/in/sofialyn/" target="_blank">
-  <button style="background-color:#0A66C2;color:white;padding:10px 16px;border:none;border-radius:6px;cursor:pointer;">
-    LinkedIn
-  </button>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sofialyn/)
