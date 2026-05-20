@@ -1,14 +1,13 @@
-# Hi, I'm Sofia 👋
+Hey there!
 
-Entry-level developer focused on building real-world web applications, admin systems, and user-centered interfaces. I enjoy combining development and design to create clean, functional, and intuitive digital experiences.
+I'm [**Sofia**](https://www.linkedin.com/in/sofialyn/), an aspiring software engineer focused on building and learning in the field of software development.
 
+Outside of tech, I spend my time doing cardio like walking and running, creating and filming videos, and binge-watching shows.
 
-## Tech Stack
+Let’s connect:
 
-React, Next.js, Node.js, Express, PostgreSQL, MySQL, Supabase, Railway, JavaScript, HTML, CSS
-
-
-## Connect
-
-* 📧 [sofia1809.mercado@gmaill.com](mailto:sofia1809.mercado@gmaill.com)
-* 💼 LinkedIn: (https://www.linkedin.com/in/sofia-ladylyn-mercado-17a4ab378/)
+<a href="https://www.linkedin.com/in/sofialyn/" target="_blank">
+  <button style="background-color:#0A66C2;color:white;padding:10px 16px;border:none;border-radius:6px;cursor:pointer;">
+    LinkedIn
+  </button>
+</a>
