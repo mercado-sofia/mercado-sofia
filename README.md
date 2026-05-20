@@ -1,4 +1,4 @@
-## Hey there!
+### Hey there!
 
 I'm [**Sofia**](https://www.linkedin.com/in/sofialyn/), an aspiring software engineer focused on building and learning in the field of software development.
 
