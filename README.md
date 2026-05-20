@@ -6,4 +6,4 @@ Outside of tech, I spend my time doing cardio like walking and running, creating
 
 Let’s connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sofialyn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sofialyn/)
