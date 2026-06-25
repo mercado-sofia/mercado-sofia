@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm [**Sofia**](https://www.linkedin.com/in/sofialyn/), an aspiring software engineer focused on building and learning in the field of software development.
+I'm [**Sofia**](https://www.linkedin.com/in/sofialyn/), an aspiring data engineer with a background in software development and a growing focus on SQL, Python, databases, and building data-driven systems.
 
 Outside of tech, I spend my time doing cardio like walking and running, creating and filming videos, and binge-watching shows.
 
