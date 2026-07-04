@@ -1,7 +1,7 @@
 ### 
 
 <h3 align="center">
-  👩🏻‍💻 Hey there! I'm <a href="https://www.linkedin.com/in/sofialyn/"><b>Sofia</b></a>, an aspiring Data Engineer
+  Hey there! I'm <a href="https://www.linkedin.com/in/sofialyn/"><b>Sofia</b></a>, an aspiring Data Engineer 👩🏻‍💻
 </h3>
 
 ---
