@@ -1,10 +1,10 @@
-### hey there!
+### 
 
-<h2 align="center">👩🏻‍💻 Aspiring Data Engineer</h2>
+<h3 align="center">👩🏻‍💻 Hey there! I'm an aspiring Data Engineer</h3>
 
---
+---
 
-<h2 align="center">About Me</h2>
+<h3 align="center">About Me</h3>
 
 I'm [**Sofia**](https://www.linkedin.com/in/sofialyn/), an Information Technology graduate and aspiring data engineer with a background in software development.
 
@@ -14,9 +14,9 @@ As I explored data science, I became more drawn to the technical side behind it 
 
 Outside of tech, I spend my time doing cardio like walking and running, creating and filming videos, and binge-watching shows.
 
---
+---
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h3 align="left">🛠️ Tech Stack</h3>
 
 **Programming Languages** ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
