@@ -26,6 +26,6 @@ Outside of tech, I spend my time doing cardio like walking and running, creating
 
 ---
 
-## let’s connect!
+<h3 align="left">let’s connect!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofia-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sofialyn/)
