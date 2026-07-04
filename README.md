@@ -1,12 +1,14 @@
 ### 
 
-<h3 align="center">👩🏻‍💻 Hey there! I'm an aspiring Data Engineer</h3>
+<h3 align="center">
+  👩🏻‍💻 Hey there! I'm <a href="https://www.linkedin.com/in/sofialyn/"><b>Sofia</b></a>, an aspiring Data Engineer
+</h3>
 
 ---
 
 <h3 align="center">About Me</h3>
 
-I'm [**Sofia**](https://www.linkedin.com/in/sofialyn/), an Information Technology graduate and aspiring data engineer with a background in software development.
+Information Technology graduate and aspiring data engineer with a background in software development.
 
 I'm currently building my foundation in SQL, Python, databases, and data-driven systems. My interest in data started from wanting to understand how information is stored, cleaned, organized, and transformed into something useful.
 
