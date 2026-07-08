@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center">About Me</h3>
+<h4 align="left"><code>&gt; about me</code></h4>
 
 Information Technology graduate and aspiring data engineer with a background in software development.
 
@@ -50,6 +50,6 @@ Outside of tech, I spend my time doing cardio like walking and running, creating
 
 ---
 
-<h3 align="left">let’s connect!</h3>
+<h4 align="left"><code>&gt; let's connect!</code></h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofia-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sofialyn/)
