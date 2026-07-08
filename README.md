@@ -25,17 +25,25 @@ Outside of tech, I spend my time doing cardio like walking and running, creating
 <strong>Languages</strong>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,py,js,ts,html,css&theme=dark" alt="SQL, Python, JavaScript, TypeScript, HTML, CSS" />
+  <img
+    src="https://skillicons.dev/icons?i=postgres,py,js,ts,html,css&theme=dark"
+    alt="SQL, Python, JavaScript, TypeScript, HTML, CSS"
+    height="40"
+  />
 </p>
 
 <strong>Libraries, Frameworks & Tools</strong>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,git,github,vscode,supabase&theme=dark" alt="React, Node.js, Tailwind CSS, Git, GitHub, VS Code, Supabase" />
+  <img
+    src="https://skillicons.dev/icons?i=react,nodejs,tailwind,git,github,vscode,supabase&theme=dark"
+    alt="React, Node.js, Tailwind CSS, Git, GitHub, VS Code, Supabase"
+    height="40"
+  />
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />
-  <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="48" height="48" alt="Railway" title="Railway" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="40" height="40" alt="Railway" title="Railway" />
 </p>
 
 <strong>Databases</strong>
