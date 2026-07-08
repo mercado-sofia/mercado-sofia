@@ -31,7 +31,7 @@ Outside of tech, I spend my time doing cardio like walking and running, creating
 <strong>Libraries, Frameworks & Tools</strong>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,supabase&theme=dark" alt="React, Node.js, Git, GitHub, VS Code, Supabase" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,git,github,vscode,supabase&theme=dark" alt="React, Node.js, Tailwind CSS, Git, GitHub, VS Code, Supabase" />
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />
