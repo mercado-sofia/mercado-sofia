@@ -35,7 +35,6 @@ Outside of tech, I spend my time doing cardio like walking and running, creating
     alt="React, Node.js, Tailwind CSS, Git, GitHub, VS Code, Supabase"
     height="34"
   />
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="34" height="34" alt="Pandas" title="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="34" height="34" alt="NumPy" title="NumPy" />
   <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="34" height="34" alt="Railway" title="Railway" />
