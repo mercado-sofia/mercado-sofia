@@ -23,7 +23,7 @@ Outside of tech, I spend my time doing cardio like walking and running, creating
   <img
     src="https://skillicons.dev/icons?i=postgres,py,js,ts,html,css&theme=dark"
     alt="SQL, Python, JavaScript, TypeScript, HTML, CSS"
-    height="30"
+    height="34"
   />
 </p>
 
@@ -33,12 +33,12 @@ Outside of tech, I spend my time doing cardio like walking and running, creating
   <img
     src="https://skillicons.dev/icons?i=react,nodejs,tailwind,git,github,vscode,supabase&theme=dark"
     alt="React, Node.js, Tailwind CSS, Git, GitHub, VS Code, Supabase"
-    height="30"
+    height="34"
   />
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="30" height="30" alt="Pandas" title="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="30" height="30" alt="NumPy" title="NumPy" />
-  <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="30" height="30" alt="Railway" title="Railway" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="34" height="34" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="34" height="34" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="34" height="34" alt="Railway" title="Railway" />
 </p>
 
 <strong>Databases</strong>
