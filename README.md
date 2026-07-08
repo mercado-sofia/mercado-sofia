@@ -44,7 +44,10 @@ Outside of tech, I spend my time doing cardio like walking and running, creating
 <strong>Databases</strong>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL and MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark"
+    alt="PostgreSQL and MySQL"
+    height="34"
+  />
 </p>
 
 ---
