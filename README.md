@@ -10,7 +10,7 @@ Information Technology graduate and aspiring data engineer with a background in 
 
 I'm currently building my foundation in SQL, Python, databases, and data-driven systems. My interest in data started from wanting to understand how information is stored, cleaned, organized, and transformed into something useful. As I explored data science, I became more drawn working with databases, data quality, pipelines, and systems that support reliable analysis and decision-making.
 
-Outside of tech, I spend my time doing cardio like walking and running, creating and filming videos, and binge-watching shows.
+Outside of tech, I spend my time doing cardio like walking and running, filming/editing videos, and binge-watching shows.
 
 ---
 
