@@ -18,7 +18,7 @@ Outside of tech, I spend my time doing cardio like walking and running, creating
 
 ---
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="left"><code>&gt; tech.stack</code></h3>
 
 ---
 
