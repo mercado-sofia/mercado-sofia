@@ -20,9 +20,29 @@ Outside of tech, I spend my time doing cardio like walking and running, creating
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
-**Programming Languages** ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+---
 
-**Databases** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<strong>Languages</strong>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,py,js,ts,html,css&theme=dark" alt="SQL, Python, JavaScript, TypeScript, HTML, CSS" />
+</p>
+
+<strong>Libraries, Frameworks & Tools</strong>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,git,bash,github,vscode,supabase&theme=dark" alt="React, Node.js, Git, Bash, GitHub, VS Code, Supabase" />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="48" height="48" alt="Railway" title="Railway" />
+</p>
+
+<strong>Databases</strong>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL and MySQL" />
+</p>
 
 ---
 
