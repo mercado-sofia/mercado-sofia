@@ -6,7 +6,7 @@
 
 <h3 align="center">About Me</h3>
 
-Information Technology graduate and aspiring data engineer with a background in software development.
+Information Technology graduate interested in data engineering and software development.
 
 I'm currently building my foundation in SQL, Python, databases, and data-driven systems. My interest in data started from wanting to understand how information is stored, cleaned, organized, and transformed into something useful. As I explored data science, I became more drawn working with databases, data quality, pipelines, and systems that support reliable analysis and decision-making.
 
