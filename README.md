@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hey there! I'm <a href="https://www.linkedin.com/in/sofialyn/"><b>Sofia</b></a>, an aspiring AI/ML Engineer 👩🏻‍💻
+  Hey there! I'm <a href="https://www.linkedin.com/in/sofialyn/"><b>Sofia</b></a>, an aspiring Technology Professional 👩🏻‍💻
 </h3>
 
 ---
